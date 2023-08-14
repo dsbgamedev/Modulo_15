@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_exercico03",
+  "name": "obj_exercicio04",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Exercico_03",
-    "path": "folders/Objects/Exercico_03.yy",
+    "name": "Exercico_04",
+    "path": "folders/Objects/Exercico_04.yy",
   },
   "parentObjectId": null,
   "persistent": false,

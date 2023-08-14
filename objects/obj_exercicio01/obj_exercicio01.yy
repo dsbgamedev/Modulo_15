@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_exercico04",
+  "name": "obj_exercicio01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Exercico_04",
-    "path": "folders/Objects/Exercico_04.yy",
+    "name": "Exercicio_01",
+    "path": "folders/Objects/Exercicio_01.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite1",
+    "path": "sprites/Sprite1/Sprite1.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

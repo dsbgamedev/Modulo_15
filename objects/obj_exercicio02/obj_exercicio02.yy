@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_exercico02",
+  "name": "obj_exercicio02",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
