@@ -36,3 +36,4 @@ vida e o círculo é destruído e se ele tiver 0 de vida
 o jogo reinicia, conforme o tempo passa os círculos vão 
 ser criados mais rapidamente e serão também mais rápidos. - *
 
+teste
