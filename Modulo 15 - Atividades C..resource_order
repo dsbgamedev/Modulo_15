@@ -15,6 +15,11 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Exercicio_01","order":1,"path":"folders/Objects/Exercicio_01.yy",},
+    {"name":"Exercico_02","order":2,"path":"folders/Objects/Exercico_02.yy",},
+    {"name":"Exercico_03","order":3,"path":"folders/Objects/Exercico_03.yy",},
+    {"name":"Exercico_04","order":4,"path":"folders/Objects/Exercico_04.yy",},
+    {"name":"Exercico_05","order":5,"path":"folders/Objects/Exercico_05.yy",},
   ],
   "ResourceOrderSettings": [],
 }
