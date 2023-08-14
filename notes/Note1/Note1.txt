@@ -1,0 +1,38 @@
+Atividades Complementares
+
+1 - Criar um objeto quadrado que quando
+o usuário colocar o mouse em cima dele
+, clicar, segurar e mover o mouse este objeto
+vá para onde o mouse está. - *
+
+2 - O computador vai escolher um número inteiro 
+aleatório entre 0 e 100 e vai perguntar qual 
+número ele escolheu e permitir que o usuário 
+chute um número, se a pessoa errou ele vai 
+dizer se o chute foi muito alto ou muito
+baixo e se ele acertou ele vai reiniciar 
+o jogo. - *
+
+3 - Quando o usuário sair por cima ele vai
+aparecer por baixo da tela, quando 
+ele sair pela direita ele aparece
+pela esquerda e visse versa.
+Para isso você vai precisar fazer um objeto
+se mover pela tela com o teclado. - *
+
+4 - Você vai fazer um jogo onde um retângulo
+vai aparecer na tela por um tempo e depois
+sumir, se o player clicar nele ele se 
+destrói e o player ganha 10 pontos, se ele 
+sumir o player perde 1 de vida, o jogador 
+começa com 3 vidas e ao chegar em zero o 
+jogo reinicia e conforme o tempo passa os
+retângulos vão sendo criados mais rapidamente. - *
+
+5 - O player vai ser um quadrado na base da tela e
+do topo da tela uns círculos vão cair, o jogador deve 
+desviar deles se ele levar uma “bolada” ele perde 1 de
+vida e o círculo é destruído e se ele tiver 0 de vida 
+o jogo reinicia, conforme o tempo passa os círculos vão 
+ser criados mais rapidamente e serão também mais rápidos. - *
+
